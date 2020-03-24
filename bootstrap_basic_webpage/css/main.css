@@ -1,0 +1,51 @@
+#header{
+    background-image:url(../img/bg-img-1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+body{
+    font-family: 'Fjalla One', sans-serif;
+}
+.height{
+    min-height:80vh;
+}
+.title-underline{
+    width:200px;
+    height:5px;
+    margin:0 auto;
+}
+.height-80{
+    min-height: 80vh;
+}
+.about-picture{
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,1)),url(../img/bg-img-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+#filler{
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,1)),url(../img/img18.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+#contact{
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,1));
+}
+#progress{
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,1)),url(../img/img24.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+#projects{
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,1));
+}
+#pricing{
+    background: linear-gradient(rgba(255, 255, 255, 0.3),rgba(0,0,255,1));
+}
